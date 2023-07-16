@@ -1,0 +1,2 @@
+# pyAsciiOrigin
+seconds
